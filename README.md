@@ -49,8 +49,6 @@
     <a href="https://vuethemes.org/theme/aria">
   <img width=60% src="https://github.com/vuethemes/aria/blob/master/ariaVueThemes.gif" alt="Aria Preview"></a> <br>
   <br>
-  <img width=60% src="https://github.com/vuethemes/aria/blob/master/ariaLighthouseScreenshot.png" alt="Aria Lighthouse Scores"></a> <br>
-  <br>
 </p>
 
 
