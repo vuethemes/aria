@@ -1,0 +1,45 @@
+{
+  "name": "aria-vuethemes",
+  "description": "A modern boilerplate for static website development",
+  "version": "1.1.1",
+  "homepage": "https://aria.vuethemes.org",
+  "author": {
+    "name": "Vue Themes",
+    "url": "https://vuethemes.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuethemes/aria.git"
+  },
+  "license": "https://coda.io/d/Vue-Themes-License_d8I2oOLBNlz",
+  "bugs": {
+    "url": "https://github.com/vuethemes/aria/issues"
+  },
+  "keywords": [
+    "vue",
+    "gridsome",
+    "javascript",
+    "frontend",
+    "sass",
+    "blog",
+    "boilerplate"
+  ],
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "gridsome": "^0.6.0",
+    "lodash.template": "^4.5.0"
+  },
+  "devDependencies": {
+    "node-sass": "^4.14.1",
+    "sass-loader": "^7.1.0",
+    "style-resources-loader": "^1.2.1"
+  },
+  "browserslist": [
+    "last 4 versions",
+    "ie 11"
+  ]
+}
