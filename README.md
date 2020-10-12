@@ -85,7 +85,7 @@
 
 ## 🚀&nbsp; How To Use
 
-To run this application, you'll need to purchase the theme from [Vue Themes](https://vuethemes.org/theme/aria) and have [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) and [Gridsome CLI tool](https://gridsome.org/docs) installed on your computer. From your command line:
+To run this application, you'll need to purchase the theme from [Vue Themes](https://vuethemes.org/theme/aria) and have [npm](http://npmjs.com)) and [Gridsome CLI tool](https://gridsome.org/docs) installed on your computer. From your command line:
 
 ```bash
 # Install Gridsome
