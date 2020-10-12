@@ -10,12 +10,8 @@
 
 <p align="center">
   <a href="https://img.shields.io/badge/">
-    <img src="https://img.shields.io/badge/framework-Gridsome-informational?style=flat&logo=<gridsome>&logoColor=white&color=00835c"
+    <img src="https://img.shields.io/badge/gridsome-code-brightgreen"
          alt="Gridsome">
-  </a>
-    <a href="https://img.shields.io/badge/">
-    <img src="https://img.shields.io/badge/code-Vue.js-informational?style=flat&logo=<vue-dot-js>&logoColor=white&color=4FC08D"
-         alt="Code">
   </a>
    <a href="https://img.shields.io/badge/">
     <img src="https://img.shields.io/badge/styles-Sass-informational?style=flat&logo=<saas>&logoColor=white&color=CC6699"
