@@ -114,40 +114,6 @@ $ gridsome explore
 
 Here is where you can [download](https://vuethemes.org/theme/aria) the latest installable version of Aria.
 
-## 🌲&nbsp; Structure
-
-We've tried our best to develop this theme using a logical component driven structure that is easy to customize. The following section shows the theme files, structure, and plugins.
-
-<pre>
-┣ src/
-┃ ┣ assets/
-┃ ┃ ┣ css/
-┃ ┃ ┃ ┣ global.scss
-┃ ┃ ┃ ┣ normalize.scss
-┃ ┃ ┃ ┗ variables.scss
-┃ ┃ ┣ data/
-┃ ┃ ┃ ┗ books.js
-┃ ┣ components/
-┃ ┃ ┣ footer/
-┃ ┃ ┃ ┣ AriaFooter.vue
-┃ ┃ ┃ ┗ Contact.vue
-┃ ┃ ┣ main/
-┃ ┃ ┃ ┣ AriaMain.vue
-┃ ┃ ┃ ┣ Bio.vue
-┃ ┃ ┃ ┣ Cover.vue
-┃ ┃ ┃ ┣ Overlay.vue
-┃ ┃ ┃ ┣ Publications.vue
-┃ ┃ ┃ ┗ Synopsis.vue
-┃ ┃ ┗ AriaHeader.vue
-┃ ┣ pages/
-┃ ┃ ┗ Index.vue
-┃ ┗ main.js
-┣ README.md
-┣ gridsome.config.js
-┣ gridsome.server.js
-┗ package.json
-</pre>
-
 ## 👍&nbsp; Credits
 
 This software uses the following open source packages:
@@ -156,7 +122,6 @@ This software uses the following open source packages:
 - [npm](https://www.npmjs.com/)
 - [Sass](https://sass-lang.com/)
 - [Normalize](https://necolas.github.io/normalize.css/)
-- [GraphQL](https://graphql.org/)
 
 ## 📫&nbsp; Have a question? Want to chat? Ran into a problem?
 
@@ -168,8 +133,8 @@ Feel free to file an [issue](https://github.com/vuethemes/aria/issues). If you'd
 
 ## 📘&nbsp; License
 
-You are free to use SaaS for your personal or client projects. Check out the full license [here](https://coda.io/d/Vue-Themes-License_d8I2oOLBNlz).
+You are free to use Aria for your personal or client projects. Check out the full license [here](https://coda.io/d/Vue-Themes-License_d8I2oOLBNlz).
 
 ## 💚&nbsp; Contributing & Partnerships
 
-Love building with Vue.js? A big part of what makes Vue Themes great is each and every one of you in the community. Your contributions enrich the Vue Themes experience and make it better every day. We welcome all contributions from you in the community, and would be thrilled to amplify your voice. Contributions are not limited to code, and can take all shapes and forms: Your wonderful Vue.js website, starter, UI components, blog posts and anything else you can think of! Please submit your name and submission info ex. GitHub repository/post/content url to [yourfriends@vuethemes.org](mailto:yourfriends@vuethemes.org/) with the subject line: “VUE THEMES SUBMISSION”. Feel free to reach out to us if you have any questions about contributing!
+Love building with Gridsome? A big part of what makes Vue Themes great is each and every one of you in the community. Your contributions enrich the Vue Themes experience and make it better every day. We welcome all contributions from you in the community, and would be thrilled to amplify your voice. Contributions are not limited to code, and can take all shapes and forms: Your wonderful website, starter, UI components, blog posts and anything else you can think of! Please submit your name and submission info ex. GitHub repository/post/content url to [yourfriends@vuethemes.org](mailto:yourfriends@vuethemes.org/) with the subject line: “VUE THEMES SUBMISSION”. Feel free to reach out to us if you have any questions about contributing!
